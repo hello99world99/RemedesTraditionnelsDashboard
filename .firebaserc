@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "remedes-ancestraux": {
+      "hosting": {
+        "remedesAncestrauxDashboard": [
+          "remedes-ancestraux"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "remedes-ancestraux"
+  }
+}
